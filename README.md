@@ -1,10 +1,5 @@
 <<<<<<< HEAD
 # INTRIVIA
-
-Nama: Muhammad Farell Akbar
-NIM: 265150300111020
-Program Studi: Teknik Komputer
-Cluster: 10
 =======
 Nama : Muhammad Farell Akbar
 Cluster : 10
