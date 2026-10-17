@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # INTRIVIA
 =======
 Nama : Muhammad Farell Akbar
